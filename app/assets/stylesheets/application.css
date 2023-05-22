@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+
+.navbar-header{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: beige;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Roboto Slab";
+  text-decoration: none;
+}
+
+a{
+  color: #337AB6;
+  text-decoration: none;
+  font-family: "Roboto Slab";
+}
